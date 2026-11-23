@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<a href="https://github.com/RiteshRana7">
+<a href="https://github.com/Nitin8780">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -69,9 +69,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RiteshRana7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Nitin8780&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshRana7&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin8780&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RiteshRana7&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Nitin8780&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -91,7 +91,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshRana7&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitin8780&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
@@ -101,7 +101,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RiteshRana7/RiteshRana7/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/Nitin8780/Nitin8780/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 
 </div>
 
@@ -121,7 +121,7 @@
 
 ### ❤️ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=RiteshRana7&label=Profile%20Views&color=blueviolet&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Nitin8780&label=Profile%20Views&color=blueviolet&style=flat" />
 
 </div>
 
